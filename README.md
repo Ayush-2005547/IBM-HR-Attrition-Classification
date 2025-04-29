@@ -17,7 +17,8 @@ To build a binary classifier that predicts whether an employee is likely to leav
 
 ## Dataset
 
-IBM HR Analytics Employee Attrition Dataset (https://posit-academy.quarto.pub/data-gallery/academy-datasets/employee-attrition/index.htm) 
+IBM HR Analytics Employee Attrition Dataset :(https://posit-academy.quarto.pub/data-gallery/academy-datasets/employee-attrition/index.htm) 
+
 Contains 1,470 employee records with features like job role, satisfaction level, income, etc.  
 Target column: `Attrition` (Yes/No)
 
